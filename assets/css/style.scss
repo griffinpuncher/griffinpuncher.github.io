@@ -1,0 +1,17 @@
+@import "minima";
+
+// Override default background color
+body {
+    background-color: #f5f5f5; // Light gray background - you can change this color
+}
+
+// You can also customize other elements
+.site-header {
+    background-color: #ffffff; // White header background
+}
+
+.site-title, .site-title:visited {
+    color: #333333; // Dark gray text for the site title
+}
+
+// Add more custom styles below 
