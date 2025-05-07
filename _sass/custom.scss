@@ -1,0 +1,13 @@
+// Custom styles
+body {
+    background-color: #f5f5f5 !important; // Using !important to ensure override
+}
+
+// You can also customize other elements
+.site-header {
+    background-color: #ffffff !important;
+}
+
+.site-title, .site-title:visited {
+    color: #333333 !important;
+} 
